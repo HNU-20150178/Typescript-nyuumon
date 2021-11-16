@@ -16,7 +16,7 @@ b[0].toLowerCase();
 //b[1].toLowerCase();
 
 //void
-function hello():void{
+function hello5():void{
     console.log('hello');
 }
 
